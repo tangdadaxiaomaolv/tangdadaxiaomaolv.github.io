@@ -1,10 +1,10 @@
 {
-  "name": "君哥聊編程",
-  "short_name": "君哥",
+  "name": "有一个小毛驴的个人账号",
+  "short_name": "有一个小毛驴",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#2196f3",
-  "description": "君哥聊編程主页",
+  "description": "有一个小毛驴編程主页",
   "theme_color": "blue",
   "icons": [
     {
